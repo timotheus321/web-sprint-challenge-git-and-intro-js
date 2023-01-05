@@ -371,10 +371,7 @@ function artistByCountry(artists, nationality){
  }
  return names;
 }
-
-
-
-
+console.log('task 9', artistByCountry(artists, 'Spanish'));
 
 /* ***** END OF TASKS ***** */
 
